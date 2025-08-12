@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with improving my Java multithreading skills.
 - 💬 Ask me about Java, Linux, and system administration.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kashish-goyal-26b7662b1/) | [Email](mailto:goyalkashish439@gmail.com)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m passionate about combining coding and cooking! 🍳💻
 
 ---
