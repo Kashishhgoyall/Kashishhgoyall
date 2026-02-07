@@ -42,7 +42,3 @@ Java • Data Structures & Algorithms • Backend Fundamentals • Linux Basics
 
 ---
 
-### 📊 GitHub Stats
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashishhgoyall&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashishhgoyall&layout=compact)
